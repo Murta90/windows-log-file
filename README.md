@@ -1,2 +1,4 @@
 # windows-log-file
-Trying to get log file suitable for investigation
+ Getting Windows log file suitable for investigation:
+ - WinPerf.exe (Discrete data)
+ - WPR (Continuous data) 
